@@ -1,8 +1,14 @@
-# RS WhatsApp Automation: WhatsApp Marketing and Bulk Messaging Software for Business
+# WhatsApp Bulk Sender for Windows: RS WhatsApp Automation (Official WhatsApp Cloud API, Auto Reply, AI Chatbot)
 
-**RS WhatsApp** is a Windows desktop app for WhatsApp marketing, bulk messaging, auto-reply and AI customer support. It can connect to the **official WhatsApp Business Platform (Cloud API) from Meta**, so your campaigns go out through Meta's own approved channel instead of a browser trick. You pay Meta directly, with **0% markup** from us on Meta's message fees.
+**RS WhatsApp Automation is a WhatsApp bulk message sender and WhatsApp marketing software for Windows PC.** Send bulk WhatsApp messages through the **official WhatsApp Cloud API from Meta** with 0% markup on Meta's fees, or link any number with a QR code. Campaigns, scheduling, auto reply, an AI WhatsApp chatbot and Google Sheets sync come in one desktop app.
+
+[![Download for Windows](https://img.shields.io/github/v/release/rameezimdad/RS-Whatsapp-Automation?label=Download%20for%20Windows&style=for-the-badge)](https://github.com/rameezimdad/RS-Whatsapp-Automation/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/rameezimdad/RS-Whatsapp-Automation/total?style=for-the-badge)](https://github.com/rameezimdad/RS-Whatsapp-Automation/releases)
+![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0B57D0?style=for-the-badge)
 
 [Download the latest version](https://github.com/rameezimdad/RS-Whatsapp-Automation/releases/latest) · [Website](https://rameezscripts.com) · [WhatsApp us](https://wa.me/923435347417)
+
+**Contents:** [Why RS WhatsApp](#why-businesses-use-rs-whatsapp) · [Official API vs QR](#two-ways-to-connect-a-number) · [Features](#features) · [How to send bulk WhatsApp messages](#how-to-send-bulk-whatsapp-messages-from-your-pc) · [Who it is for](#who-it-is-for) · [Plans](#plans) · [Download](#download-and-install) · [FAQ](#faq)
 
 ---
 
@@ -56,6 +62,24 @@ You can mix both: one number on the official API and another on QR, all from the
 - Several WhatsApp numbers in one app
 - Number check and contact grabbers (QR numbers)
 - Quick replies and saved answers
+
+## How to send bulk WhatsApp messages from your PC
+
+1. **Install RS WhatsApp** on Windows and start the free trial.
+2. **Link your number** on the Numbers page: paste your Meta access token for the official WhatsApp Cloud API, or scan the QR code with your phone.
+3. **Import your contacts** from a CSV or Excel file. Every column becomes a merge field, such as `{name}` or `{city}`.
+4. **Write the message.** On the official API, pick an approved template. Add a photo, video or PDF if you like, and turn on message variations.
+5. **Send now or schedule** the campaign. Watch each message move to Sent, Delivered and Read.
+6. **Let the auto reply and AI chatbot** answer the people who write back, and collect orders, bookings and leads.
+
+## Who it is for
+
+- **Shops and e-commerce stores:** order updates, offers, abandoned cart follow-ups
+- **Schools, coaching centres and academies:** fee reminders, results, notices to parents
+- **Clinics and salons:** appointment reminders and booking confirmations
+- **Real estate agents:** new listings to buyer lists, lead follow-up
+- **Restaurants and bakeries:** menus, deals and order taking by chat
+- **Agencies and marketers:** run WhatsApp campaigns for several clients from several numbers
 
 ## Plans
 
@@ -112,6 +136,21 @@ Yes. The built-in AI assistant answers customers with Gemini, ChatGPT, Claude or
 
 **Is there a free trial?**
 Yes, 3 days with one number. Sign in with Google to start.
+
+**Can I send bulk WhatsApp messages without saving numbers?**
+Yes. Import the numbers from a file and send. You do not need to save each contact on your phone.
+
+**Can I schedule WhatsApp messages on PC?**
+Yes. Pick a date and time for any campaign and the app sends it then.
+
+**What does the WhatsApp Cloud API cost?**
+Meta charges per message by category (marketing, utility, authentication) and by country, at Meta's own published rates. That bill goes from Meta to you, and RS WhatsApp adds 0% on top.
+
+**Is RS WhatsApp a WhatsApp Web extension?**
+No. It is a full Windows desktop app. It does not need Chrome or WhatsApp Web to stay open.
+
+**Can I use more than one WhatsApp number?**
+Yes. Link several numbers, mix official API and QR numbers, and send from all of them in one app.
 
 ## Disclaimer
 
