@@ -6,7 +6,22 @@
 [![Downloads](https://img.shields.io/github/downloads/rameezimdad/RS-Whatsapp-Automation/total?style=for-the-badge)](https://github.com/rameezimdad/RS-Whatsapp-Automation/releases)
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0B57D0?style=for-the-badge)
 
-[Download the latest version](https://github.com/rameezimdad/RS-Whatsapp-Automation/releases/latest) · [Website](https://rameezscripts.com) · [WhatsApp us](https://wa.me/923435347417)
+[Download the latest version](https://github.com/rameezimdad/RS-Whatsapp-Automation/releases/latest) · [Product page](https://rameezimdad.github.io/RS-Whatsapp-Automation/) · [Website](https://rameezscripts.com) · [WhatsApp us](https://wa.me/923435347417)
+
+> **Quick answer:** RS WhatsApp is a Windows desktop app by Rameez Scripts that sends bulk WhatsApp messages through Meta's official WhatsApp Cloud API (0% markup on Meta fees) or a QR-linked number. It imports Excel and CSV contacts, schedules campaigns, and answers replies with an auto reply and an AI chatbot (Gemini, ChatGPT, Claude or Grok). 3-day free trial.
+
+| Key fact | Value |
+|---|---|
+| Product | RS WhatsApp (RS WhatsApp Automation) |
+| Category | WhatsApp bulk sender, WhatsApp marketing software |
+| Platform | Windows 10 and 11, 64-bit desktop app |
+| Connection | Official WhatsApp Cloud API (Meta) or QR code |
+| Meta fee markup | 0%, Meta bills you directly |
+| Contacts | Excel (.xlsx) and CSV |
+| AI engines | Gemini, ChatGPT, Claude, Grok |
+| Free trial | 3 days, 1 number |
+| Developer | [Rameez Scripts](https://rameezscripts.com) (Mohammad Rameez Imdad) |
+| Updated | November 2026 |
 
 **Contents:** [Why RS WhatsApp](#why-businesses-use-rs-whatsapp) · [Official API vs QR](#two-ways-to-connect-a-number) · [Features](#features) · [How to send bulk WhatsApp messages](#how-to-send-bulk-whatsapp-messages-from-your-pc) · [Who it is for](#who-it-is-for) · [Plans](#plans) · [Download](#download-and-install) · [FAQ](#faq)
 
