@@ -1,0 +1,34 @@
+# RS WhatsApp
+
+> RS WhatsApp (also called RS WhatsApp Automation) is a WhatsApp bulk message sender and WhatsApp marketing software for Windows PC, made by Rameez Scripts (Mohammad Rameez Imdad). It sends bulk WhatsApp messages through the official WhatsApp Cloud API from Meta, with 0% markup on Meta's message fees, or through any WhatsApp number linked by QR code.
+
+## Key facts
+- Type: Windows desktop app (Windows 10 and 11, 64-bit)
+- Connection: official WhatsApp Cloud API (Meta) with the customer's own access token, or QR-code link
+- Pricing model: flat monthly app plan; with the official API, Meta bills the customer's WhatsApp Business account directly and RS WhatsApp adds 0% markup
+- Plans: 3-day free trial (1 number), Starter, Pro; every plan has every feature; current prices are shown inside the app
+- Contacts: Excel (.xlsx) and CSV import with merge fields; no need to save numbers on the phone
+- Developer: Rameez Scripts, https://rameezscripts.com
+- Not affiliated with WhatsApp or Meta
+
+## Features
+- Bulk WhatsApp campaigns with merge fields, message variations, photos, videos and files
+- Campaign scheduling, daily caps and gaps between messages
+- Sent, Delivered and Read status per message
+- Meta message template manager (create, submit for approval, use in campaigns)
+- Auto reply, quick replies, working hours and human handover
+- AI WhatsApp chatbot using the customer's own Gemini, ChatGPT, Claude or Grok key; understands photos and voice notes; learns from the business website
+- Orders, bookings and leads captured from chats and synced to Google Sheets
+- Multiple WhatsApp numbers, mixing official API and QR
+- Automatic updates
+
+## Official API vs QR
+- Official WhatsApp Cloud API: approved by Meta for business messaging, lowest ban risk, approved templates, free text within 24 hours of the customer's last message, Meta's own per-message rates
+- QR link: quick setup with a phone, no Meta fee, higher ban risk, not an official WhatsApp method
+
+## Links
+- [Download (latest Windows installer)](https://github.com/rameezimdad/RS-Whatsapp-Automation/releases/latest)
+- [Product page](https://rameezimdad.github.io/RS-Whatsapp-Automation/)
+- [GitHub repository](https://github.com/rameezimdad/RS-Whatsapp-Automation)
+- [Buy or ask on WhatsApp](https://wa.me/923435347417)
+- Email: Contact@rameezscripts.com
